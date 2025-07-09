@@ -19,7 +19,8 @@ The project architecture is designed to process parking data, apply different pr
 
 ### Architecture Diagram
 
-The following diagram illustrates the data flow and components of the dynamic pricing system. 
+The following diagram illustrates the data flow and components of the dynamic pricing system. You can visualize this diagram by copying the following Mermaid code into a Mermaid-compatible viewer or markdown renderer (like on GitHub or in a live editor).
+
 ```mermaid
 graph TD
     A[Input Data CSV] --> B[Data Preprocessing]
